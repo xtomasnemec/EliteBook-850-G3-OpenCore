@@ -1,4 +1,4 @@
-# OpenCore config for Enterprise line notebook
+# OpenCore config for EliteBook 850 G3
 
 ## **This Repo is made only for this exact model and may not work on other models! (HP Elite Book 850 G3(2016 Skylake))**
 
@@ -10,15 +10,9 @@ This config is based on **Dortania's OpenCore** 0.7.1 [GitHub](https://github.co
 1.   **Functions**
      - Fingerprint reader
      - Some LEDs
-     - **Mac OS Updates above _Big Sur_**
      - **iServices** (eg. iMessage, FaceTime) but you need to fix it yourself [Guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)
-2.   **Cosmetic**
-      - Mac OS boot chime [Here](https://www.youtube.com/watch?v=Z9w08Pov-yA)
-      - Displing debug info on startup and shutdown
 
 **_DO THIS ON YOUR OWN RISK_**
 
 # What's planned?
-- [ ] Turn off debug info
-- [ ] Fix boot chime
-- [ ] Fix updates
+- [ ] MacOS Sonoma support
