@@ -10,9 +10,10 @@ This config is based on **Dortania's OpenCore** 0.9.2 [GitHub](https://github.co
 1.   **Functions**
      - Fingerprint reader
      - Some LEDs
-     - **iServices** (eg. iMessage, FaceTime) but you need to fix it yourself [Guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)
-
-**_DO THIS ON YOUR OWN RISK_**
+     - 
+     - **iServices** (ie. iMessage, FaceTime) but you need to fix it yourself [Guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)
+> [!WARNING]
+> DO THIS ON YOUR OWN RISK
 
 # What's planned?
 - [ ] MacOS Sonoma support (waiting for itlwm to be updated)
