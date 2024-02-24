@@ -15,4 +15,4 @@ This config is based on **Dortania's OpenCore** 0.9.2 [GitHub](https://github.co
 **_DO THIS ON YOUR OWN RISK_**
 
 # What's planned?
-- [ ] MacOS Sonoma support
+- [ ] MacOS Sonoma support (waiting for itlwm to be updated)
