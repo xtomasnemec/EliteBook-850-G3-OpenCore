@@ -10,8 +10,8 @@ This config is based on **Dortania's OpenCore** 0.9.8 [GitHub](https://github.co
 1.   **Functions**
      - Fingerprint reader
      - Some LEDs
-     - Smartcard and SD card readers
-     - **iServices** (ie. iMessage, FaceTime) but you need to fix it yourself [Guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)
+     - Smartcard and SD card reader
+     - **iServices** (ie. iMessage, FaceTime) but you can to fix it yourself [Guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)
 > [!WARNING]
 > DO THIS ON YOUR OWN RISK
 
