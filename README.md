@@ -2,7 +2,7 @@
 
 ## **This Repo is made only for this exact model and may not work on other models! (HP EliteBook 850 G3(2016 Skylake))**
 
-This config is based on **Dortania's OpenCore** 0.9.8 [GitHub](https://github.com/acidanthera/OpenCorePkg).
+This config is based on **Dortania's OpenCore** 0.9.9 [GitHub](https://github.com/acidanthera/OpenCorePkg).
 
 **This is NOT a guide. There is an oficial [guide](https://dortania.github.io/OpenCore-Install-Guide/)**
 
